@@ -4,4 +4,4 @@
 This is my test repository
 
 ## Contact
-email@example.com
+email2@example.com
